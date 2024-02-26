@@ -1,0 +1,9 @@
+version: '3'
+services:
+  srs-player:
+    image: nginx:latest
+    ports:
+      - "8081:80"
+    volumes:
+      - ./html:/usr/share/nginx/html:ro
+
