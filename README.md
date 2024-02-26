@@ -8,6 +8,7 @@ The player interface is contained in the `index.html` file located in the `./htm
 
 Clone this repository.
 ```shell
+git clone https://github.com/Madhan-Prasath/srs-webrtc-whep-player.git
 ```
 Navigate to the root directory of the cloned repository:
 
